@@ -1,7 +1,8 @@
 ProductID,ProductName,Category,Brand,Price,Stock,ImageURL,DiscountPrice
 CA001,RAZZL COLA,Soft Drinks/Carbonated Drinks,Razzl,2200,1000,images/razzlcola.jpeg,0
 CA002,RAZZL ORANGE,Soft Drinks/Carbonated Drinks,razzl,2200,1000,images/razzlorange.jpeg,0
-PA001,RAZZL LEMON,Soft Drinks/Carbonated Drinks,RAZZL,2200,1000,images/razzlcola.jpg,0
+PA001,RAZZL LEMON,Soft Drinks/Carbonated Drinks,RAZZL,2200,1000,images/razzllemon.jpeg,0
 PA002,RAZZL PAMPLEMOUSSE,Soft Drinks/Carbonated Drinks,RAZZL,4000,1000,images/RAZZLPAMPLEMOUSSE.jpeg,0
 PA003,FEARLESS,Functional Drinks,FEARLESS,4600,1000,images/fearless.jpg,0
+
 
